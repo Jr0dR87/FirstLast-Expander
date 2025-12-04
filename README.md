@@ -10,9 +10,8 @@ Where:
 
 Example:  
 `john.smith` → `jasmith`, `jbsmith`, `jcsmith`, … `jzsmith`
-
 Then appends the domain provided.
----
+
 
 ## Usage
 
